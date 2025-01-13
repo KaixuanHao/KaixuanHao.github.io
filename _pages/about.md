@@ -18,14 +18,16 @@ profile:
 #social: false # includes social icons at the bottom of the page
 ---
 
-As a **econometrician**, I use machine learning tools to explore 
-- optimal policy design in asymptotic sense 
-- human-computer interaction in decision making 
-- (optimal) transport perspective of statistical estimation 
+I am a postdoctor at the [Institution of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). During my research, I am fortunate to be advised by Professor [Ke Tang](https://sites.google.com/view/ketangs-research-page/home) and Professor [Liyan Han](https://www.bimsa.cn/zh-CN/detail/lyhan.html).
 
-Roughly speaking, I try to provide mathematical explanations for empirically successful machine learning methods and to justify their application in economic problems. 
+**Research Field**: Digital Economy, Empirical Asset Pricing
 
-I am a third-year PhD candidate at the [Institution of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). During my research, I am fortunate to be advised by Professor [Jingyuan Wang](https://www.bigscity.com/), Professor [Ke Tang](https://sites.google.com/view/ketangs-research-page/home), and Professor [Han Hong](https://profiles.stanford.edu/han-hong). 
+**Education**:
+- PhD, 2018-2023, Beihang University
+- B.E., 2014-2018, Hunan University
+
+**Working Experience**: 
+2023-now, Tsinghua University
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
