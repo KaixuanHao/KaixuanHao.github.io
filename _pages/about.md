@@ -22,14 +22,14 @@ I am a postdoctor at the [Institution of Economics, School of Social Sciences, T
 
 **Research Field**: Digital Economy, Empirical Asset Pricing
 
-**Education**:
+**Education**
 - 2018-2023, Ph.D. in Economics, Beihang University
 - 2014-2018, B.S. in Mathematics, Hunan University
 
-**Working Experience**: 
+**Working Experience**
 - 2023-now, Tsinghua University
 
-**Publications**
+**Publications** (first or corresponding)
 - Donghui Li, Wei Chen, **Kaixuan Hao***. Place-based policies and local technology spillovers: Evidence from national high-tech zones in China. Research in International Business and Finance. 2025(74),102580.
 - **Kaixuan Hao**, Liyan Han and (Tony) Wei Li*. The impact of China’s currency swap lines on bilateral trade. International Review of Economics and Finance.2022(81): 173-183.
 
