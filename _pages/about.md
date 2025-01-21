@@ -6,7 +6,7 @@ subtitle: <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
 
 profile:
   align: right
-  image: kaixuan.jpg
+  image: basketball.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>Mingzhai Building</p>
@@ -24,13 +24,13 @@ I am a postdoctor at the [Institution of Economics, School of Social Sciences, T
 
 **Education**
 - 2018-2023, Ph.D. in Economics, Beihang University
-- 2014-2018, B.S. in Mathematics, Hunan University
+- 2014-2018, B.A. in Mathematics, Hunan University
 
 **Working Experience**
 - 2023-now, Tsinghua University
 
 **Publications** (first or corresponding)
-- Donghui Li, Wei Chen, **Kaixuan Hao***. Place-based policies and local technology spillovers: Evidence from national high-tech zones in China. Research in International Business and Finance. 2025(74),102580.
+- Donghui Li, Wei Chen, **Kaixuan Hao***. Place-based policies and local technology spillovers: Evidence from national high-tech zones in China. Research in International Business and Finance. 2025(73),102580.
 - **Kaixuan Hao**, Liyan Han and (Tony) Wei Li*. The impact of China’s currency swap lines on bilateral trade. International Review of Economics and Finance.2022(81): 173-183.
 
 **Service**
